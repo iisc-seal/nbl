@@ -4,7 +4,7 @@ NeuralBugLocator (NBL in short) is available under the Apache License, version 2
 
 # Reference
 
-Rahul Gupta, Aditya Kanade, Shirish Shevade. "Neural Attribution for Semantic Bug-Localization in Student Programs", NeurIPS 2019.
+[Rahul Gupta](https://sites.google.com/site/csarahul/), Aditya Kanade, Shirish Shevade. ["Neural Attribution for Semantic Bug-Localization in Student Programs"](https://papers.nips.cc/paper/9358-neural-attribution-for-semantic-bug-localization-in-student-programs), NeurIPS 2019.
 
 # Dataset
 

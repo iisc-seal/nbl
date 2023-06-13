@@ -8,7 +8,7 @@ NeuralBugLocator (NBL in short) is available under the Apache License, version 2
 
 # Dataset
 
-The [dataset](https://sites.google.com/site/csarahul/nbl-dataset.db.tar.gz) used to train and evaluate NBL is available under Apache 2.0, courtesy [Prof. Amey Karkare](https://www.cse.iitk.ac.in/users/karkare/) and his research group. It was collected from an introductory programming course at Indian Institute of Technology, Kanpur, India using a programming tutoring system called [Prutor](https://www.cse.iitk.ac.in/users/karkare/prutor/). If you use this dataset for your research, kindly give due credits to both Prutor and NBL.
+The [dataset](https://drive.google.com/file/d/1Rf1h74ji7cOZMa5HrffAgCNUxCNXtNDH/view?usp=drive_web) used to train and evaluate NBL is available under Apache 2.0, courtesy [Prof. Amey Karkare](https://www.cse.iitk.ac.in/users/karkare/) and his research group. It was collected from an introductory programming course at Indian Institute of Technology, Kanpur, India using a programming tutoring system called [Prutor](https://www.cse.iitk.ac.in/users/karkare/prutor/). If you use this dataset for your research, kindly give due credits to both Prutor and NBL.
 
 # Running the tool
 
